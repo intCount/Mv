@@ -1,5 +1,5 @@
-Id,Name,Job,Region,Address,City,Last_Update,Lat,Long_,Phone,Whatsapp,Active
-1,intCount,Solution numérique,"Tanger Medina","Avenue Youssef Ben tachfine Ibn Batouta, 90013",Tanger,2020-04-07,35.777482,-5.802106,"0531074619",+212602284421,Oui
+Id,Name,Region,Address,City,Last_Update,Lat,Long_,Phone,Whatsapp,Active
+1,intCount,"Tanger Medina","Avenue Youssef Ben tachfine Ibn Batouta, 90013",Tanger,2020-04-07,35.777482,-5.802106,"0531074619",+212602284421,Oui
 
 
 
